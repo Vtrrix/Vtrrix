@@ -1,4 +1,3 @@
-<p align= "center"><img src='https://raw.githubusercontent.com/Shreyans13/Vtrrix/master/profile.png'></img></p>
 <h1 align= "center"> Hi I am Vivek Sony </h1>
 
 <!-- ## Hi there 👋 -->
