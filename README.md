@@ -4,7 +4,7 @@
 <!-- ## Hi there 👋 -->
 
 ### 🔭 I’m currently working on a personal project 
-### 🌱 I’m currently learning Django
+### 🌱 I’m currently learning Angular
 ### 👯 I’m looking to collaborate on Projects related to Web development
 ### 🤔 I’m looking for help with Advanced ReactJS
 ### 💬 Ask me about FrontEnd Web dev
