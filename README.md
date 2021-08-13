@@ -9,7 +9,7 @@
 ### 💬 Ask me about FrontEnd Web dev
 ### 📫 How to reach me: via mail @ viveksonybcd@gmail.com via Linkedin @ https://www.linkedin.com/in/vivek-sony-330289174/
 ### 😄 Pronouns: Frontend Developer/Backend Developer or Future Full Stack Developer
-### ⚡ Fun fact: I am an Otaku 😄
+### ⚡ Fun fact: I like anime 😄
 
 
 ## 𝗠𝘆 𝗦𝘁𝗮𝘁𝘀
